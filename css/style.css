@@ -659,6 +659,16 @@ nav .fas {
     #contact .contact-wrapper .contact-l {
         margin-bottom: 25px;
     }
+    #enquiy .enquiry-wrapper {
+        flex-direction: column;
+    }
+    #enquiry .enquiry-wrapper .enquiry-l,
+    #enquiry .enquiry-wrapper .enquiry-r {
+        width: 100%;
+    }
+    #enquiry .enquiry-wrapper .enquiry-l {
+        margin-bottom: 25px;
+    }
     footer .container {
         width: 100%;
         padding: 0 5px !important;
